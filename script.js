@@ -13,3 +13,4 @@ function toggleSidebar() {
     this.mini = true;
   }
 }
+
